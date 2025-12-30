@@ -93,9 +93,5 @@ def get_version():
     })
 
 if __name__ == '__main__':
-    print("=" * 50)
     print("Happy Clock v2.25.12.29.14.20")
-    print("Created by Mihlali")
-    print("Starting server on http://0.0.0.0:5000")
-    print("=" * 50)
     app.run(debug=True, port=5000, host='0.0.0.0')
