@@ -19,7 +19,7 @@ A joyful digital clock with cascading digit columns showing hours, minutes, and 
 
     ```bash
     git clone <repository-url>
-    cd car-dashboard
+    cd HappyClock
 
 2. Install backend dependencies:
 
